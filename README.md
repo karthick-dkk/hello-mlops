@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # hello-mlops
 Hello world mlops
 =======
